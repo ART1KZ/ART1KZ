@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="180" viewBox="0 0 1100 180" role="img" aria-label="ART1KZ">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fafafa"/>
+      <stop offset="50%" stop-color="#f4f4f5"/>
+      <stop offset="100%" stop-color="#f8f7fc"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="42%" r="42%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.14"/>
+      <stop offset="50%" stop-color="#7c3aed" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowSoft" cx="18%" cy="70%" r="35%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#7c3aed" stop-opacity="0.65"/>
+      <stop offset="55%" stop-color="#6d28d9" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fafafa" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#fafafa" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="monoStroke" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6d28d9" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0.8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1100" height="180" fill="url(#bg)"/>
+  <rect width="1100" height="180" fill="url(#glow)"/>
+  <rect width="1100" height="180" fill="url(#glowSoft)"/>
+
+  <!-- subtle grid -->
+  <g stroke="#18181b" stroke-opacity="0.045" stroke-width="1">
+    <path d="M0 36 H1100"/>
+    <path d="M0 72 H1100"/>
+    <path d="M0 108 H1100"/>
+    <path d="M0 144 H1100"/>
+    <path d="M137.5 0 V180"/>
+    <path d="M275 0 V180"/>
+    <path d="M412.5 0 V180"/>
+    <path d="M550 0 V180"/>
+    <path d="M687.5 0 V180"/>
+    <path d="M825 0 V180"/>
+    <path d="M962.5 0 V180"/>
+  </g>
+
+  <!-- geometric frame accents -->
+  <g fill="none" stroke="#18181b" stroke-opacity="0.1" stroke-width="1">
+    <path d="M40 40 H120"/>
+    <path d="M40 40 V70"/>
+    <path d="M1060 40 H980"/>
+    <path d="M1060 40 V70"/>
+    <path d="M40 140 H120"/>
+    <path d="M40 140 V110"/>
+    <path d="M1060 140 H980"/>
+    <path d="M1060 140 V110"/>
+  </g>
+
+  <!-- monogram A -->
+  <g transform="translate(56,46)">
+    <circle cx="34" cy="42" r="42" fill="#7c3aed" fill-opacity="0.06" stroke="url(#monoStroke)" stroke-width="1.2"/>
+    <path d="M34 18 L54 66 H46.2 L41.8 54 H26.2 L21.8 66 H14 Z M29.2 46 H38.8 L34 32 Z"
+          fill="none" stroke="url(#monoStroke)" stroke-width="1.6" stroke-linejoin="round"/>
+  </g>
+
+  <!-- wordmark + tagline -->
+  <text x="168" y="88" fill="#18181b" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="600" letter-spacing="0.18em">ART1KZ</text>
+  <text x="168" y="118" fill="#52525b" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" letter-spacing="0.28em">BACKEND · TOOLING · AGENTS</text>
+
+  <!-- accent line -->
+  <rect x="168" y="132" width="220" height="1.5" rx="1" fill="url(#line)"/>
+
+  <!-- right-side geometric motif -->
+  <g transform="translate(860,42)" fill="none" stroke="#7c3aed" stroke-opacity="0.4" stroke-width="1">
+    <path d="M0 48 L48 0 L96 48 L48 96 Z"/>
+    <path d="M24 48 L48 24 L72 48 L48 72 Z" stroke-opacity="0.6"/>
+    <circle cx="48" cy="48" r="3" fill="#7c3aed" fill-opacity="0.75" stroke="none"/>
+  </g>
+
+  <!-- bottom fade / thin edge -->
+  <rect y="150" width="1100" height="30" fill="url(#fade)"/>
+  <rect y="178" width="1100" height="2" fill="#7c3aed" fill-opacity="0.3"/>
+</svg>
