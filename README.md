@@ -25,7 +25,7 @@ TypeScript day-to-day. I ship CLI providers, agent skills, and Telegram bots tha
 
 ## Stack
 
-[![Stack icons](https://skillicons.dev/icons?i=ts,nodejs,nestjs,prisma,postgres,docker,git,python&perline=8)](https://skillicons.dev)
+[![Stack icons](https://skillicons.dev/icons?i=ts,nodejs,nestjs,prisma,postgres,docker,git&perline=7)](https://skillicons.dev)
 
 ---
 
