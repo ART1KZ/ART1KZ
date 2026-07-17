@@ -16,18 +16,16 @@ TypeScript day-to-day. I ship CLI providers, agent skills, and Telegram bots tha
 
 ## Selected work
 
-| | |
-|---|---|
-| **[omp-grok-build](https://github.com/ART1KZ/omp-grok-build)** | Grok Build provider for Oh My Pi — native `/login`, CLI proxy route, higher Build limits |
-| **[skill-bay](https://github.com/ART1KZ/skill-bay)** | Battle-tested agent skills: issue → green PR, zone-aware review, evidence-based feedback resolve |
-| **[telegram-bot-shop](https://github.com/ART1KZ/telegram-bot-shop)** | Digital-goods shop bot — grammY, Prisma, SQLite; catalog, payments, admin tooling |
-| **[task-tracker](https://github.com/ART1KZ/task-tracker)** | NestJS task API practice — modules, clean backend shape |
+- **[omp-grok-build](https://github.com/ART1KZ/omp-grok-build)** — Grok Build provider for Oh My Pi: native `/login`, CLI proxy route, higher Build limits
+- **[skill-bay](https://github.com/ART1KZ/skill-bay)** — Battle-tested agent skills: issue → green PR, zone-aware review, evidence-based feedback resolve
+- **[telegram-bot-shop](https://github.com/ART1KZ/telegram-bot-shop)** — Digital-goods shop bot on grammY + Prisma + SQLite: catalog, payments, admin tooling
+- **[task-tracker](https://github.com/ART1KZ/task-tracker)** — NestJS task API practice with structured modules and a clean backend shape
 
 ---
 
 ## Stack
 
-`TypeScript` · `Node.js` · `NestJS` · `Prisma` · `PostgreSQL` · `grammY` · `Docker` · `Git`
+[![Stack icons](https://skillicons.dev/icons?i=ts,nodejs,nestjs,prisma,postgres,docker,git,python&perline=8)](https://skillicons.dev)
 
 ---
 
