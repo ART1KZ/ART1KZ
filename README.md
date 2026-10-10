@@ -46,10 +46,10 @@ TypeScript day-to-day. I build harness extensions, CLI tools, and agent workflow
 
 <p align="center">
   <a href="https://github.com/ART1KZ">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ART1KZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=c4b5fd&icon_color=7c3aed&text_color=a3a3a3" alt="ART1KZ GitHub Stats" height="155">
+    <img src="https://github-readme-stats.vercel.app/api?username=ART1KZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=c4b5fd&icon_color=7c3aed&text_color=a3a3a3" alt="ART1KZ GitHub Stats" height="155">
   </a>
   <a href="https://github.com/ART1KZ">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ART1KZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=c4b5fd&text_color=a3a3a3" alt="Top Languages" height="155">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ART1KZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=c4b5fd&text_color=a3a3a3" alt="Top Languages" height="155">
   </a>
 </p>
 
