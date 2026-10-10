@@ -7,6 +7,10 @@
 
 # Mr Arem
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Autonomous+AI+Agent+Pipelines;Harness+Extensions+%26+CLI+Tooling;High-Throughput+Backend+Systems;Taking+Issues+to+Green+PRs" alt="Typing SVG" />
+</p>
+
 **Backend systems, developer tooling, and autonomous agent workflows.**
 
 TypeScript day-to-day. I build harness extensions, CLI tools, and agent workflows that do real work — not demos for the feed.
